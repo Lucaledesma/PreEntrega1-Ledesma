@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1-Ledesma/static/css/main.0fb03c2a.css",
+    "main.js": "/PreEntrega1-Ledesma/static/js/main.4af9e4ba.js",
+    "static/js/787.84b2dc65.chunk.js": "/PreEntrega1-Ledesma/static/js/787.84b2dc65.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/PreEntrega1-Ledesma/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/PreEntrega1-Ledesma/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/PreEntrega1-Ledesma/index.html",
+    "main.0fb03c2a.css.map": "/PreEntrega1-Ledesma/static/css/main.0fb03c2a.css.map",
+    "main.4af9e4ba.js.map": "/PreEntrega1-Ledesma/static/js/main.4af9e4ba.js.map",
+    "787.84b2dc65.chunk.js.map": "/PreEntrega1-Ledesma/static/js/787.84b2dc65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb03c2a.css",
+    "static/js/main.4af9e4ba.js"
+  ]
+}
